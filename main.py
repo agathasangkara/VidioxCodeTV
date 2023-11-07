@@ -60,6 +60,8 @@ _.;  :    `-' .-..'     `-' .-.
                             count += 1
                             if count == berapa:
                                 print(f" {x.GREEN}Operation Successfully XD")
+                        elif create == False:
+                            None
                             break
                     else:
                         continue
